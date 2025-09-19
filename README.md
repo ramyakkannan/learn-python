@@ -8,3 +8,15 @@
 
 ### Other Resources
 1. Udemy Course - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=KEEPLEARNINGGB
+
+
+### Reading Resources
+1. Basic python documentation - https://www.codeguage.com/v1/courses
+2. Python official Beginner Guide - https://wiki.python.org/moin/BeginnersGuide
+3. Book - https://openbookproject.net/thinkcs/python/english3e/index.html
+
+### Pathwats wishlist
+- [urban data science ](https://urbandatascience.its.ucla.edu/) 
+- [data science for architecture](https://www.youtube.com/@budslabteammember9543/playlists)
+- [python for everyone](https://www.freecodecamp.org/learn/python-for-everybody/)
+- [data quest courses](https://www.dataquest.io/data-science-courses/career-paths/) - paid

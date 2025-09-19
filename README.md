@@ -1,19 +1,19 @@
 # Python self-learning journey
 
 ### Free Resources
-1. Mosh YouTube - https://www.youtube.com/watch?v=yVl_G-F7m8c&t=700s
-2. FreeCodeCamp - https://www.youtube.com/watch?v=8ext9G7xspg
-3. Python Mini-Projects - https://github.com/Python-World/python-mini-projects
-4. 30 days of Python - https://github.com/Asabeneh/30-Days-Of-Python
+1. [Mosh YouTube](https://www.youtube.com/watch?v=yVl_G-F7m8c&t=700s)
+2. [FreeCodeCamp](https://www.youtube.com/watch?v=8ext9G7xspg)
+3. [Python Mini-Projects](https://github.com/Python-World/python-mini-projects)
+4. [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ### Other Resources
-1. Udemy Course - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=KEEPLEARNINGGB
+1. [Udemy Course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 
 
 ### Reading Resources
-1. Basic python documentation - https://www.codeguage.com/v1/courses
-2. Python official Beginner Guide - https://wiki.python.org/moin/BeginnersGuide
-3. Book - https://openbookproject.net/thinkcs/python/english3e/index.html
+1. [Basic python documentation](https://www.codeguage.com/v1/courses)
+2. [Python official Beginner Guide](https://wiki.python.org/moin/BeginnersGuide)
+3. [Think Like A CS](https://openbookproject.net/thinkcs/python/english3e/index.html)
 
 ### Pathwats wishlist
 - [urban data science ](https://urbandatascience.its.ucla.edu/) 
